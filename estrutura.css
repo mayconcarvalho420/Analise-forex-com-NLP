@@ -1,0 +1,15 @@
+forex_prediction/
+│
+├── data/
+│   ├── forex_data.csv
+│
+├── models/
+│   ├── model.h5
+│
+├── src/
+│   ├── data_preprocessing.py
+│   ├── model.py
+│   ├── visualization.py
+│
+├── README.md
+└── main.py

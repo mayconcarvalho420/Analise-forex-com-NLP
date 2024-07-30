@@ -1,0 +1,9 @@
+
+### `requirements.txt`
+
+```txt
+pandas
+numpy
+matplotlib
+tensorflow
+alpha_vantage
